@@ -1,0 +1,669 @@
+\t (00:00:04) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Fri Aug 02 14:21:06 2019
+\t (00:00:04)         Host=KHW User=user Pid=4600 CPUs=4
+\t (00:00:04) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession user C:\USERS\USER\DESKTOP\ADUINO_UNO1\allegro\ADUINO_UNO.brd
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: C:/USERS/USER/DESKTOP/ADUINO_UNO1/allegro/ADUINO_UNO.brd
+\i (00:00:06) trapsize 13274
+\i (00:00:06) trapsize 13871
+\i (00:00:06) trapsize 13871
+\i (00:00:06) trapsize 13274
+\i (00:00:06) generaledit 
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 37.0797 33.8938
+\i (00:00:08) trapsize 6637
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 37.0797 33.8938
+\i (00:00:08) trapsize 3319
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 37.7434 33.7611
+\i (00:00:09) trapsize 6637
+\i (00:00:11) roam x -96 
+\i (00:00:11) roam x -96
+\i (00:00:11) roam x -96 
+\i (00:00:11) roam x -96
+\i (00:00:11) roam x -96 
+\i (00:00:11) roam x -96
+\i (00:00:12) roam y 96 
+\i (00:00:12) roam y 96
+\i (00:00:14) quickplace 
+\i (00:00:16) setwindow form.quickplc
+\i (00:00:16) FORM quickplc place  
+\w (00:00:16) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:16) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:16) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:16) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:16) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:16) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:20) FORM quickplc done  
+\i (00:00:20) setwindow pcb
+\i (00:00:20) generaledit 
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 58.5841 -1.4159
+\i (00:00:26) trapsize 3319
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 60.9071 -0.0221
+\i (00:00:27) trapsize 6637
+\i (00:00:28) roam y -96 
+\i (00:00:28) roam y -96
+\i (00:00:28) roam y -96 
+\i (00:00:28) roam y -96
+\i (00:00:30) roam y -96 
+\i (00:00:30) roam y -96
+\i (00:00:30) roam y -96 
+\i (00:00:30) roam y -96
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in 10.0665 56.5930
+\i (00:00:34) trapsize 3319
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in 10.0665 56.5930
+\i (00:00:34) trapsize 1659
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in 16.6373 54.2700
+\i (00:00:34) trapsize 830
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out 16.5378 53.9050
+\i (00:00:35) trapsize 1659
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 14.1815 53.3076
+\i (00:00:36) trapsize 3319
+\i (00:00:39) pick grid 61.1063 92.9979
+\t (00:00:39) last pick:  60.9600 93.9800
+\i (00:00:40) pick grid 70.1993 92.2014
+\t (00:00:40) last pick:  71.1200 91.4400
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in 65.2214 94.0598
+\i (00:00:41) trapsize 1659
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in 65.1883 94.0930
+\i (00:00:41) trapsize 830
+\i (00:00:44) zoom out 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out 58.6009 86.9415
+\i (00:00:44) trapsize 1659
+\i (00:00:44) zoom out 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out 55.5147 86.9747
+\i (00:00:44) trapsize 3319
+\i (00:00:49) zoom in 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom in 3.2802 104.5632
+\i (00:00:49) trapsize 1659
+\i (00:00:49) zoom in 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom in 3.2802 104.5632
+\i (00:00:49) trapsize 830
+\i (00:00:51) zoom out 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom out 5.9683 104.7955
+\i (00:00:51) trapsize 1659
+\i (00:00:51) zoom out 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom out 5.4042 104.5632
+\i (00:00:51) trapsize 3319
+\i (00:00:52) move 
+\t (00:00:52) Select element(s) to move.
+\i (00:00:53) pick grid 6.8643 105.6252
+\t (00:00:53) last pick:  7.6200 106.6800
+\t (00:00:53) last pick:  7.6162 105.3820
+\t (00:00:53) Moving RN2A / R2_SMDRES_1K / SMDRES.
+\t (00:00:53) Pick new location for the element(s).
+\i (00:00:56) pick grid 7.6608 105.4261
+\t (00:00:56) last pick:  7.6200 106.6800
+\i (00:00:56) pick grid 7.9263 106.0898
+\t (00:00:56) last pick:  7.6200 106.6800
+\t (00:00:56) last pick:  7.6200 106.6800
+\t (00:00:56) Moving RN2A / R2_SMDRES_1K / SMDRES.
+\t (00:00:56) Pick new location for the element(s).
+\i (00:00:57) pick grid 8.1918 105.3597
+\t (00:00:57) last pick:  7.6200 104.1400
+\i (00:00:58) undo 
+\i (00:00:58) trapsize 3319
+\i (00:00:58) generaledit 
+\i (00:00:58) undo 
+\i (00:00:58) trapsize 3319
+\i (00:00:59) generaledit 
+\i (00:01:01) zoom out 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom out 49.2095 94.9394
+\i (00:01:01) trapsize 6637
+\i (00:01:01) zoom out 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom out 70.3982 89.7623
+\i (00:01:01) trapsize 13274
+\i (00:01:02) zoom out 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom out 190.7965 48.7611
+\i (00:01:02) trapsize 13274
+\i (00:01:02) zoom in 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom in -12.8319 50.3540
+\i (00:01:02) trapsize 6637
+\i (00:01:03) zoom in 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom in -14.5575 51.2832
+\i (00:01:03) trapsize 3319
+\i (00:01:07) zoom in 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom in 12.4558 54.0708
+\i (00:01:07) trapsize 1659
+\i (00:01:07) zoom in 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom in 12.4890 54.1372
+\i (00:01:07) trapsize 830
+\i (00:01:08) zoom out 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom out 11.6594 55.8297
+\i (00:01:08) trapsize 1659
+\i (00:01:23) done 
+\i (00:01:23) place manual 
+\i (00:01:23) FORM plc_manual placement_list 
+\i (00:01:23) FORM plc_manual categories Components by refdes 
+\i (00:01:23) trapsize 1659
+\i (00:01:25) setwindow form.plc_manual
+\i (00:01:25) FORM plc_manual categories Package symbols 
+\i (00:01:32) FORM plc_manual advanced_settings  
+\i (00:01:33) FORM plc_manual library YES 
+\i (00:01:34) FORM plc_manual placement_list  
+\i (00:01:48) FORM plc_manual tree 'MULTISEL YES' SMDMLL34 'Package symbols' 
+\w (00:01:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:01:48) FORM plc_manual tree  SMDMLL34 'Package symbols' 
+\i (00:01:51) FORM plc_manual tree 'MULTISEL NO' SMDMLL34 'Package symbols' 
+\i (00:01:52) FORM plc_manual tree 'MULTISEL YES' SMDO213AA12 'Package symbols' 
+\w (00:01:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:01:52) FORM plc_manual tree  SMDO213AA12 'Package symbols' 
+\i (00:01:53) FORM plc_manual tree 'MULTISEL NO' SMDO213AA12 'Package symbols' 
+\i (00:02:05) FORM plc_manual tree 'MULTISEL YES' PGA13050128BD034W1400 'Package symbols' 
+\w (00:02:05) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:05) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:05) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:02:05) FORM plc_manual tree  PGA13050128BD034W1400 'Package symbols' 
+\i (00:02:07) FORM plc_manual tree 'MULTISEL NO' PGA13050128BD034W1400 'Package symbols' 
+\i (00:02:25) FORM plc_manual tree 'MULTISEL YES' SMD230912 'Package symbols' 
+\w (00:02:25) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:25) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:25) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:02:25) FORM plc_manual tree  SMD230912 'Package symbols' 
+\i (00:02:27) FORM plc_manual tree 'MULTISEL NO' SMD230912 'Package symbols' 
+\i (00:02:28) FORM plc_manual tree 'MULTISEL YES' SMDMLL3412 'Package symbols' 
+\w (00:02:28) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:02:28) FORM plc_manual tree  SMDMLL3412 'Package symbols' 
+\i (00:02:30) FORM plc_manual tree 'MULTISEL NO' SMDMLL3412 'Package symbols' 
+\i (00:02:31) FORM plc_manual tree 'MULTISEL YES' SMDO213AB 'Package symbols' 
+\w (00:02:31) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:31) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:31) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:02:31) FORM plc_manual tree  SMDO213AB 'Package symbols' 
+\i (00:02:32) FORM plc_manual tree 'MULTISEL NO' SMDO213AB 'Package symbols' 
+\i (00:02:33) FORM plc_manual tree 'MULTISEL YES' SMDO213AC 'Package symbols' 
+\w (00:02:33) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:33) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:33) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:02:33) FORM plc_manual tree  SMDO213AC 'Package symbols' 
+\i (00:02:34) FORM plc_manual tree 'MULTISEL NO' SMDO213AC 'Package symbols' 
+\i (00:02:44) FORM plc_manual tree 'MULTISEL YES' SOG05020WG420L525 'Package symbols' 
+\w (00:02:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:02:44) FORM plc_manual tree  SOG05020WG420L525 'Package symbols' 
+\i (00:02:46) FORM plc_manual tree 'MULTISEL NO' SOG05020WG420L525 'Package symbols' 
+\i (00:02:49) FORM plc_manual tree 'MULTISEL YES' SOJ05014WB450L400 'Package symbols' 
+\w (00:02:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:02:49) FORM plc_manual tree  SOJ05014WB450L400 'Package symbols' 
+\i (00:02:50) FORM plc_manual tree 'MULTISEL NO' SOJ05014WB450L400 'Package symbols' 
+\i (00:02:52) FORM plc_manual tree 'MULTISEL YES' SOJ05024WB300L625 'Package symbols' 
+\w (00:02:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:02:52) FORM plc_manual tree  SOJ05024WB300L625 'Package symbols' 
+\i (00:02:53) FORM plc_manual tree 'MULTISEL NO' SOJ05024WB300L625 'Package symbols' 
+\i (00:02:56) FORM plc_manual tree 'MULTISEL YES' TELETM310FACE8X6 'Package symbols' 
+\w (00:02:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:02:56) FORM plc_manual tree  TELETM310FACE8X6 'Package symbols' 
+\i (00:02:57) FORM plc_manual tree 'MULTISEL NO' TELETM310FACE8X6 'Package symbols' 
+\i (00:02:59) FORM plc_manual tree 'MULTISEL YES' TO226ABR050 'Package symbols' 
+\w (00:02:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:02:59) FORM plc_manual tree  TO226ABR050 'Package symbols' 
+\i (00:03:01) FORM plc_manual tree 'MULTISEL NO' TO226ABR050 'Package symbols' 
+\i (00:03:05) FORM plc_manual tree 'MULTISEL YES' TQFP32 'Package symbols' 
+\w (00:03:05) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:03:05) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:03:05) FORM plc_manual tree  TQFP32 'Package symbols' 
+\i (00:03:07) FORM plc_manual tree 'MULTISEL NO' TQFP32 'Package symbols' 
+\i (00:03:08) FORM plc_manual tree 'MULTISEL YES' TRAINING 'Package symbols' 
+\w (00:03:08) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:03:08) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:03:08) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:03:08) FORM plc_manual tree  TRAINING 'Package symbols' 
+\i (00:03:10) FORM plc_manual tree 'MULTISEL NO' TRAINING 'Package symbols' 
+\i (00:03:10) FORM plc_manual tree 'MULTISEL YES' TSOP26_24 'Package symbols' 
+\w (00:03:10) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:03:10) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:03:10) FORM plc_manual tree  TSOP26_24 'Package symbols' 
+\i (00:03:12) FORM plc_manual tree 'MULTISEL NO' TSOP26_24 'Package symbols' 
+\i (00:03:16) FORM plc_manual tree 'MULTISEL YES' PLCC44TMS975 'Package symbols' 
+\w (00:03:16) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:03:16) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:03:16) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:03:16) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:03:16) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:03:16) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:03:16) FORM plc_manual tree  PLCC44TMS975 'Package symbols' 
+\i (00:03:18) FORM plc_manual tree 'MULTISEL NO' PLCC44TMS975 'Package symbols' 
+\i (00:03:32) FORM plc_manual tree 'MULTISEL YES' DIP24_3 'Package symbols' 
+\w (00:03:32) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:03:32) FORM plc_manual tree  DIP24_3 'Package symbols' 
+\i (00:03:34) FORM plc_manual tree 'MULTISEL NO' DIP24_3 'Package symbols' 
+\i (00:03:43) FORM plc_manual tree 'MULTISEL YES' CYLD200LS150031 'Package symbols' 
+\w (00:03:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:03:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:03:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:03:43) FORM plc_manual tree  CYLD200LS150031 'Package symbols' 
+\i (00:03:45) FORM plc_manual tree 'MULTISEL NO' CYLD200LS150031 'Package symbols' 
+\i (00:03:47) FORM plc_manual tree 'MULTISEL YES' CQFP68_L 'Package symbols' 
+\w (00:03:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:03:48) FORM plc_manual tree  CQFP68_L 'Package symbols' 
+\i (00:03:51) FORM plc_manual tree 'MULTISEL YES' CQFP68 'Package symbols' 
+\w (00:03:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:03:52) FORM plc_manual tree  CQFP68 'Package symbols' 
+\i (00:03:53) FORM plc_manual tree 'MULTISEL NO' CQFP68_L 'Package symbols' 
+\i (00:03:53) FORM plc_manual tree  CQFP68_L 'Package symbols' 
+\i (00:03:53) FORM plc_manual tree 'MULTISEL NO' CQFP68 'Package symbols' 
+\i (00:03:53) FORM plc_manual tree  CQFP68 'Package symbols' 
+\i (00:03:54) FORM plc_manual tree 'MULTISEL YES' CQFP64_IDT 'Package symbols' 
+\w (00:03:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:03:54) FORM plc_manual tree  CQFP64_IDT 'Package symbols' 
+\i (00:03:56) FORM plc_manual tree 'MULTISEL NO' CQFP64_IDT 'Package symbols' 
+\i (00:04:11) FORM plc_manual tree 'MULTISEL YES' CPAX1725X150034 'Package symbols' 
+\w (00:04:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:04:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:04:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:04:11) FORM plc_manual tree  CPAX1725X150034 'Package symbols' 
+\i (00:04:13) FORM plc_manual tree 'MULTISEL NO' CPAX1725X150034 'Package symbols' 
+\i (00:04:20) FORM plc_manual tree 'MULTISEL YES' CLCC344 'Package symbols' 
+\w (00:04:20) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:04:20) FORM plc_manual tree  CLCC344 'Package symbols' 
+\i (00:04:22) FORM plc_manual tree 'MULTISEL NO' CLCC344 'Package symbols' 
+\i (00:04:24) FORM plc_manual tree 'MULTISEL YES' BLKCON156VHTM1SQSW15613 'Package symbols' 
+\w (00:04:24) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:04:24) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:04:24) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:04:24) FORM plc_manual tree  BLKCON156VHTM1SQSW15613 'Package symbols' 
+\i (00:04:26) FORM plc_manual tree 'MULTISEL NO' BLKCON156VHTM1SQSW15613 'Package symbols' 
+\i (00:04:32) FORM plc_manual tree 'MULTISEL YES' AX900X175031 'Package symbols' 
+\w (00:04:32) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:04:32) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:04:32) FORM plc_manual tree  AX900X175031 'Package symbols' 
+\i (00:04:34) FORM plc_manual tree 'MULTISEL NO' AX900X175031 'Package symbols' 
+\i (00:05:17) FORM plc_manual alpha_filter LLC* 
+\i (00:05:18) FORM plc_manual advanced_settings  
+\i (00:05:19) FORM plc_manual placement_list  
+\i (00:05:20) FORM plc_manual tree 'MULTISEL YES' 'Package symbols' 
+\i (00:05:22) FORM plc_manual alpha_filter L* 
+\i (00:05:29) FORM plc_manual tree 'MULTISEL YES' LCC44 'Package symbols' 
+\w (00:05:29) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:05:29) FORM plc_manual tree  LCC44 'Package symbols' 
+\i (00:05:46) FORM plc_manual cancel  
+\i (00:05:46) setwindow pcb
+\i (00:05:46) generaledit 
+\i (00:06:22) zoom out 1 
+\i (00:06:22) setwindow pcb
+\i (00:06:22) zoom out 23.9713 52.7435
+\i (00:06:22) trapsize 3319
+\i (00:06:22) zoom out 1 
+\i (00:06:22) setwindow pcb
+\i (00:06:22) zoom out 23.9713 52.7435
+\i (00:06:22) trapsize 6637
+\i (00:06:25) zoom in 1 
+\i (00:06:25) setwindow pcb
+\i (00:06:25) zoom in 55.0000 60.7081
+\i (00:06:25) trapsize 3319
+\i (00:06:25) zoom out 1 
+\i (00:06:25) setwindow pcb
+\i (00:06:25) zoom out 54.4027 60.5754
+\i (00:06:25) trapsize 6637
+\i (00:06:25) zoom out 1 
+\i (00:06:25) setwindow pcb
+\i (00:06:25) zoom out 54.4026 60.5753
+\i (00:06:25) trapsize 13274
+\i (00:06:26) zoom in 1 
+\i (00:06:26) setwindow pcb
+\i (00:06:26) zoom in 28.3186 89.9115
+\i (00:06:26) trapsize 6637
+\i (00:06:27) zoom in 1 
+\i (00:06:27) setwindow pcb
+\i (00:06:27) zoom in 25.0000 89.9116
+\i (00:06:27) trapsize 3319
+\i (00:06:28) zoom out 1 
+\i (00:06:28) setwindow pcb
+\i (00:06:28) zoom out 25.0001 89.9116
+\i (00:06:28) trapsize 6637
+\i (00:06:28) roam y 96 
+\i (00:06:28) roam y 96
+\i (00:06:29) roam x -96 
+\i (00:06:29) roam x -96
+\i (00:06:29) roam x -96 
+\i (00:06:29) roam x -96
+\i (00:06:29) roam x -96 
+\i (00:06:29) roam x -96
+\i (00:06:30) roam y 96 
+\i (00:06:30) roam y 96
+\i (00:06:42) done 
+\i (00:06:42) place manual 
+\i (00:06:42) FORM plc_manual placement_list 
+\i (00:06:42) FORM plc_manual categories Components by refdes 
+\i (00:06:42) setwindow form.plc_manual
+\i (00:06:42) FORM plc_manual categories Components by refdes 
+\i (00:06:42) setwindow pcb
+\i (00:06:42) trapsize 6637
+\i (00:06:44) setwindow form.plc_manual
+\i (00:06:44) FORM plc_manual categories Package symbols 
+\i (00:06:45) FORM plc_manual advanced_settings  
+\i (00:06:46) FORM plc_manual library YES 
+\i (00:06:48) FORM plc_manual placement_list  
+\i (00:06:53) FORM plc_manual alpha_filter PQFP* 
+\i (00:06:57) FORM plc_manual tree 'MULTISEL YES' PQFP44 'Package symbols' 
+\w (00:06:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:06:57) FORM plc_manual tree  PQFP44 'Package symbols' 
+\i (00:09:32) FORM plc_manual alpha_filter SOJ* 
+\i (00:09:37) FORM plc_manual tree 'MULTISEL YES' SOJ36 'Package symbols' 
+\w (00:09:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:09:37) FORM plc_manual tree  SOJ36 'Package symbols' 
+\i (00:09:40) FORM plc_manual tree 'MULTISEL NO' SOJ36 'Package symbols' 
+\i (00:09:42) FORM plc_manual advanced_settings  
+\i (00:09:43) FORM plc_manual placement_list  
+\i (00:11:10) setwindow pcb
+\i (00:11:10) refdes Ic2 
+\i (00:11:10) trapsize 2158
+\t (00:11:10) Moving IC2 / ATMEGA8-TQFP32_0_SOJ05034WB400L / SOJ05034WB400L900.
+\t (00:11:10) last pick:  6.5748 49.9764
+\i (00:11:10) xname_flush 
+\i (00:13:34) zoom out 1 
+\i (00:13:34) setwindow pcb
+\i (00:13:34) zoom out 7.7589 55.2623
+\i (00:13:34) trapsize 4315
+\i (00:13:34) zoom out 1 
+\i (00:13:34) setwindow pcb
+\i (00:13:34) zoom out 7.2410 55.3485
+\i (00:13:34) trapsize 8631
+\i (00:13:34) zoom out 1 
+\i (00:13:34) setwindow pcb
+\i (00:13:34) zoom out 45.6282 55.3485
+\i (00:13:34) trapsize 13274
+\i (00:13:36) pick grid 1.5044 57.5221
+\t (00:13:36) last pick:  2.5400 58.4200
+\i (00:13:43) setwindow form.plc_manual
+\i (00:13:43) FORM plc_manual alpha_filter MY* 
+\i (00:13:46) FORM plc_manual tree 'MULTISEL YES' MY_ATMEGA328 'Package symbols' 
+\i (00:13:46) FORM plc_manual tree  MY_ATMEGA328 'Package symbols' 
+\i (00:13:50) setwindow pcb
+\i (00:13:50) pick grid 173.5398 62.3009
+\t (00:13:50) last pick:  172.7200 63.5000
+\i (00:13:50) zoom in 1 
+\i (00:13:50) setwindow pcb
+\i (00:13:50) zoom in 155.4867 63.8938
+\i (00:13:50) trapsize 6637
+\i (00:13:51) zoom in 1 
+\i (00:13:51) setwindow pcb
+\i (00:13:51) zoom in 143.4602 63.8938
+\i (00:13:51) trapsize 3319
+\i (00:13:54) pick grid tgl 163.5708 64.5576
+\t (00:13:54) last pick:  162.5600 63.5000
+\i (00:13:54) zoom in 1 
+\i (00:13:54) setwindow pcb
+\i (00:13:54) zoom in 163.5708 64.5576
+\i (00:13:54) trapsize 1659
+\i (00:13:54) zoom in 1 
+\i (00:13:54) setwindow pcb
+\i (00:13:54) zoom in 163.5709 64.5576
+\i (00:13:54) trapsize 830
+\i (00:13:55) roam x 96 
+\i (00:13:55) roam x 96
+\i (00:13:55) pick grid 166.2389 58.0366
+\t (00:13:55) last pick:  165.1000 58.4200
+\i (00:13:55) roam x 96 
+\i (00:13:55) roam x 96
+\i (00:13:55) roam x 96 
+\i (00:13:55) roam x 96
+\i (00:13:56) roam x 96 
+\i (00:13:56) roam x 96
+\i (00:13:56) roam x 96 
+\i (00:13:56) roam x 96
+\i (00:13:56) roam x 96 
+\i (00:13:56) roam x 96
+\i (00:13:56) roam x 96 
+\i (00:13:56) roam x 96
+\i (00:13:58) roam x 96 
+\i (00:13:58) roam x 96
+\i (00:13:58) roam x 96 
+\i (00:13:58) roam x 96
+\i (00:14:05) setwindow form.plc_manual
+\i (00:14:05) FORM plc_manual tree 'MULTISEL YES' MY_ATMEGA328 'Package symbols' 
+\i (00:14:08) FORM plc_manual cancel  
+\i (00:14:08) setwindow pcb
+\i (00:14:08) generaledit 
+\i (00:14:10) drag_start grid 166.4215 68.4735
+\i (00:14:10) drag_stop 176.2113 60.4591
+\i (00:14:10) zoom out 1 
+\i (00:14:10) setwindow pcb
+\i (00:14:10) zoom out 177.0078 62.5498
+\i (00:14:10) trapsize 1659
+\i (00:14:10) zoom out 1 
+\i (00:14:10) setwindow pcb
+\i (00:14:10) zoom out 177.0077 62.5499
+\i (00:14:10) trapsize 3319
+\i (00:14:11) zoom out 1 
+\i (00:14:11) setwindow pcb
+\i (00:14:11) zoom out 175.6803 62.3508
+\i (00:14:11) trapsize 6637
+\i (00:14:11) zoom out 1 
+\i (00:14:11) setwindow pcb
+\i (00:14:11) zoom out 77.0885 68.1915
+\i (00:14:11) trapsize 13274
+\i (00:14:12) zoom in 1 
+\i (00:14:12) setwindow pcb
+\i (00:14:12) zoom in 154.4248 46.6372
+\i (00:14:12) trapsize 6637
+\i (00:14:13) zoom in 1 
+\i (00:14:13) setwindow pcb
+\i (00:14:13) zoom in 142.9292 46.6372
+\i (00:14:13) trapsize 3319
+\i (00:14:14) delete 
+\t (00:14:15) Selected item not valid for current operation, ignored: Pin "U*.4"
+\t (00:14:15) Selected item not valid for current operation, ignored: Pin "U*.5"
+\t (00:14:15) Selected item not valid for current operation, ignored: Pin "U*.6"
+\t (00:14:15) Selected item not valid for current operation, ignored: Pin "U*.7"
+\t (00:14:15) Selected item not valid for current operation, ignored: Pin "U*.8"
+\t (00:14:15) Selected item not valid for current operation, ignored: Pin "U*.1"
+\t (00:14:15) Selected item not valid for current operation, ignored: Pin "U*.2"
+\t (00:14:15) Selected item not valid for current operation, ignored: Pin "U*.3"
+\t (00:14:15) Selected item not valid for current operation, ignored: Pin "U*.31"
+\t (00:14:15) Selected item not valid for current operation, ignored: Pin "U*.32"
+\t (00:14:15) Selected item not valid for current operation, ignored: Pin "U*.17"
+\t (00:14:15) Selected item not valid for current operation, ignored: Pin "U*.18"
+\t (00:14:15) Selected item not valid for current operation, ignored: Pin "U*.19"
+\t (00:14:15) Selected item not valid for current operation, ignored: Pin "U*.20"
+\t (00:14:15) Selected item not valid for current operation, ignored: Pin "U*.21"
+\t (00:14:15) Selected item not valid for current operation, ignored: Pin "U*.22"
+\t (00:14:15) Selected item not valid for current operation, ignored: Pin "U*.23"
+\t (00:14:15) Selected item not valid for current operation, ignored: Pin "U*.24"
+\t (00:14:15) Selected item not valid for current operation, ignored: Pin "U*.25"
+\t (00:14:15) Selected item not valid for current operation, ignored: Pin "U*.26"
+\t (00:14:15) Selected item not valid for current operation, ignored: Pin "U*.27"
+\t (00:14:15) Selected item not valid for current operation, ignored: Pin "U*.28"
+\t (00:14:15) Selected item not valid for current operation, ignored: Pin "U*.29"
+\t (00:14:15) Selected item not valid for current operation, ignored: Pin "U*.30"
+\i (00:14:15) generaledit 
+\i (00:14:15) drag_start grid 164.8319 67.8098
+\i (00:14:15) drag_stop 183.4823 56.9248
+\i (00:14:17) zoom out 1 
+\i (00:14:17) setwindow pcb
+\i (00:14:17) zoom out 171.6018 54.6682
+\i (00:14:17) trapsize 6637
+\i (00:14:17) zoom out 1 
+\i (00:14:17) setwindow pcb
+\i (00:14:17) zoom out 171.6017 54.6681
+\i (00:14:17) trapsize 13274
+\i (00:14:18) drag_start grid 135.0443 86.9912
+\i (00:14:18) drag_stop 224.2478 40.7965
+\i (00:14:19) delete 
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.4"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.5"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.6"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.7"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.8"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.9"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.10"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.1"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.2"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.3"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.31"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.32"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.11"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.12"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.13"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.14"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.15"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.16"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.17"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.18"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.19"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.20"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.21"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.22"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.23"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.24"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.25"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.26"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.27"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.28"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.29"
+\t (00:14:19) Selected item not valid for current operation, ignored: Pin "My_Atmega328.30"
+\i (00:14:19) generaledit 
+\i (00:14:20) drag_start grid 147.7876 76.1062
+\i (00:14:20) drag_stop 223.1859 22.7434
+\i (00:14:20) pick grid 168.7611 72.3894
+\t (00:14:20) last pick:  167.6400 71.1200
+\i (00:14:21) pick grid 172.7434 66.8142
+\t (00:14:21) last pick:  172.7200 66.0400
+\i (00:14:21) pick grid 175.3982 68.6726
+\t (00:14:21) last pick:  175.2600 68.5800
+\i (00:14:21) zoom in 1 
+\i (00:14:21) setwindow pcb
+\i (00:14:21) zoom in 179.9115 60.7080
+\i (00:14:21) trapsize 6637
+\i (00:14:21) zoom in 1 
+\i (00:14:21) setwindow pcb
+\i (00:14:21) zoom in 155.6726 60.7080
+\i (00:14:21) trapsize 3319
+\i (00:14:21) zoom in 1 
+\i (00:14:21) setwindow pcb
+\i (00:14:21) zoom in 155.6726 60.7080
+\i (00:14:21) trapsize 1659
+\i (00:14:21) zoom in 1 
+\i (00:14:21) setwindow pcb
+\i (00:14:21) zoom in 155.6726 60.7080
+\i (00:14:21) trapsize 830
+\i (00:14:22) roam x 96 
+\i (00:14:22) roam x 96
+\i (00:14:23) roam x 96 
+\i (00:14:23) roam x 96
+\i (00:14:23) roam x 96 
+\i (00:14:23) roam x 96
+\i (00:14:23) roam x 96 
+\i (00:14:23) roam x 96
+\i (00:14:24) zoom out 1 
+\i (00:14:24) setwindow pcb
+\i (00:14:24) zoom out 168.4127 60.9569
+\i (00:14:24) trapsize 1659
+\i (00:14:25) drag_start grid 163.6670 68.9548
+\i (00:14:25) drag_stop 177.9701 56.8419
+\i (00:14:27) delete 
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.4"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.5"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.6"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.7"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.8"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.9"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.10"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.1"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.2"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.3"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.31"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.32"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.11"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.12"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.13"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.14"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.15"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.16"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.17"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.18"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.19"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.20"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.21"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.22"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.23"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.24"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.25"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.26"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.27"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.28"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.29"
+\t (00:14:27) Selected item not valid for current operation, ignored: Pin "My_Atmega328.30"
+\t (00:14:27) No valid items selected for the current operation, exiting.
+\i (00:14:27) generaledit 
+\i (00:14:28) pick grid 161.5763 62.7822
+\t (00:14:28) last pick:  162.5600 63.5000
+\i (00:14:28) drag_start grid 164.8949 67.8596
+\i (00:14:28) drag_stop 178.3684 57.9039
+\i (00:14:29) pick grid 165.6582 62.3840
+\t (00:14:29) last pick:  165.1000 63.5000
+\i (00:14:30) delete 
+\i (00:14:31) drag_start grid 167.6161 69.0211
+\i (00:14:31) drag_stop 177.7046 54.5853
+\t (00:14:31) Symbol "My_Atmega328"
+\i (00:14:32) pick grid 171.8971 56.9747
+\t (00:14:32) last pick:  172.7200 55.8800
+\i (00:14:33) zoom out 1 
+\i (00:14:33) setwindow pcb
+\i (00:14:33) zoom out 153.8772 56.9415
+\i (00:14:33) trapsize 3319
+\i (00:14:33) zoom out 1 
+\i (00:14:33) setwindow pcb
+\i (00:14:33) zoom out 153.7445 56.9415
+\i (00:14:33) trapsize 6637
+\i (00:14:33) zoom out 1 
+\i (00:14:33) setwindow pcb
+\i (00:14:33) zoom out 148.2389 56.9415
+\i (00:14:33) trapsize 13274
+\i (00:14:33) zoom out 1 
+\i (00:14:33) setwindow pcb
+\i (00:14:33) zoom out 165.0443 32.5664
+\i (00:14:33) trapsize 13274
+\i (00:14:37) exit 
+\e (00:14:37) Do you want to save the changes you made to ADUINO_UNO.brd?
+\i (00:14:41) fillin no 
+\t (00:14:41)     Journal end - Fri Aug 02 14:35:43 2019

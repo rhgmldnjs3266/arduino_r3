@@ -1,0 +1,18 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : ADUINO_UNO.brd                                )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Fri Aug 02 15:21:11 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 1
+
+
+  <<<  ETCH  >>>
+
+    Layer = BOTTOM
+	Point on shape: (19.0993 11.8781)  Net: UGND
